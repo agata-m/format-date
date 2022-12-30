@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/agata-m/format-date#readme",
   "devDependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "onchange": "^6.1.0"
   }
 }
